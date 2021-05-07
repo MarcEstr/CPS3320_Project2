@@ -1,0 +1,392 @@
+
+Dear Travelers,
+
+Below are the details of the Version 1.4 update "Invitation of Windblume" and the update compensation.
+
+
+
+〓Compensation〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+
+
+〓Eligibility〓
+
+Maintenance Compensation: All Travelers who have reached Adventure Rank 5 or above by 2021/03/17 06:00 (UTC+8)
+
+Please claim before the end of Version 1.4.
+
+Issue Fix Compensation: All Travelers who have reached Adventure Rank 5 or above by 2021/03/17 06:00 (UTC+8)
+
+Please claim the compensation before 2021/03/20 06:00 (UTC+8).
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+
+
+〓Update Schedule〓
+
+Update maintenance begins 2021/03/17 06:00 (UTC+8) and is estimated to take 5 hours.
+
+
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS4: Highlight Genshin Impact from the PS4 Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+
+
+〓Update Details〓
+
+I. New Character
+
+4-Star Character "Thorny Benevolence" Rosaria (Cryo)
+
+◇ Vision: Cryo
+
+◇ Weapon: Polearm
+
+◇ A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.
+
+◆ Elemental Skill "Ravaging Confession": Quickly maneuvers behind the enemy (except for some large enemies) and unleashes an attack that deals Cryo DMG. Elemental Burst "Rites of Termination": Casts an Ice Lance into the ground that deals periodic bouts of AoE Cryo DMG.
+
+
+
+II. New Equipment
+
+◇ New Weapons: Elegy for the End (5-Star Bow), The Alley Flash (4-Star Sword), Wine and Song (4-Star Catalyst), Alley Hunter (4-Star Bow), Windblume Ode (4-Star Bow)
+
+◆ Take part in the Invitation of Windblume event for a chance to obtain the event-exclusive weapon, Windblume Ode.
+
+◆ During the Event Wish "Epitome Invocation," from after the Version 1.4 update – 2021/04/06 15:59, the event-exclusive 5-star bow Elegy for the End, 5-star sword Skyward Blade, event-exclusive 4-star sword The Alley Flash, and event-exclusive 4-star catalyst Wine and Song will have their Wish drop rates greatly increased!
+
+*Alley Hunter (Bow) will appear in a future Event Wish.
+
+
+
+III. New Events
+
+Take part in Version 1.4's flagship event "Invitation of Windblume" for a chance to obtain the bow, Windblume Ode.
+
+◆ Gameplay Duration: 2021/03/19 10:00 – 2021/04/05 03:59
+
+◆ Event Shop Duration: 2021/03/19 10:00 – 2021/04/12 03:59
+
+◆ Event Rules: Take part in challenges during the Windblume Festival to obtain two currencies: Festive Tour Tickets and Peculiar Collab Coupons. Spend these currencies at the Event Shop to purchase the event-exclusive weapon Windblume Ode and its exclusive refinement material "The Visible Winds," as well as the Crown of Insight and more.
+
+
+
+〓Festive Anecdotes〓
+
+Act I: 2021/03/19 10:00 – 2021/04/05 03:59
+
+Act II: 2021/03/22 04:00 – 2021/04/05 03:59
+
+Act III: 2021/03/25 04:00 – 2021/04/05 03:59
+
+Act IV: 2021/03/28 04:00 – 2021/04/05 03:59
+
+◆ A series of Windblume Festival quests will become available during the event period. Four acts of "Festive Anecdotes" will unlock over the course of the event, each bringing new quests. Complete these quests to win rewards including Primogems, Character EXP Materials, and Mora.
+
+More events to follow during Version 1.4.
+
+
+
+IV. New Game Feature
+
+New Feature: Hangout Events
+
+◆ After the Version 1.4 update, the new "Hangout Events" feature will be added to the game. Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to unlock Hangout Events for Barbara, Noelle, Chongyun, and Bennett using Story Keys. (Each Hangout Event requires 2 Story Keys to unlock.)
+
+The Hangout Events feature unlocks at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (1 Story Key is awarded for every 8 commissions completed.)
+
+
+
+V. New Quests
+
+New Archon Quest
+
+◇ You hear from Ganyu and Lan that the Treasure Hoarders of Mondstadt and Liyue have banded together and plan to get involved in some ruins associated with the Abyss Order. Fearing the chaos that the Treasure Hoarders might cause through their involvement, you take up the commission and investigate...
+
+◆ The Archon Quest "Chapter I: Act IV - We Will Be Reunited" will become available at a later date. Stay tuned for more information.
+
+
+
+New World Quests
+
+◆ A total of 8 world quests will become available over the course of the Windblume Festival.
+
+◆ Complete these quests to win Mora, Character EXP Materials, and more!
+
+※ Windblume Festival world quests will no longer be available after the event ends on 2021/04/05 03:59.
+
+
+
+VI. Other Additions
+
+● Gameplay
+
+New Elite Monster: Abyss Herald - Wicked Torrents (In Version 1.4, this monster will only appear in the Archon Quest)
+
+An Abyss Order monster that uses a dark power to command warped torrents in battle.
+
+Some of its attacks increase the CD of characters' skills if they are currently in cooldown.
+
+New Windblume-Exclusive Gadgets: Windblume Festival Commemorative Balloon, Windsong Lyre. Another event-exclusive gadget, Endora, will be obtainable in a subsequent event.
+
+
+
+New Recipes:
+
+○ Good Hunter (Mondstadt): Crispy Potato Shrimp Platter, Mint Jelly
+
+○ Wanmin Restaurant (Liyue): Mint Salad, Minty Meat Rolls
+
+○ "Outland Gastronomy" Login Event Reward: Golden Chicken Burger, Golden Fried Chicken, Fragrant Mashed Potatoes
+
+
+
+New Namecards:
+
+○ Travel Notes: Windblume (BP reward)
+
+○ Rosaria: Indenture (reward for reaching Friendship Lv. 10 with Rosaria)
+
+
+
+New Achievements: Additions to the "Wonders of the World" category
+
+
+
+Parametric Transformer: Now lets you add various ores as materials
+
+
+
+Liyue NPC Changshun: Now additionally sells Potatoes, Sugar, Cheese, Cor Lapis, and Electro Crystal
+
+
+
+Liyue NPC Bolai: Now additionally sells Apples, Sunsettias, Fish, and Starconches
+
+
+
+● System
+
+Adjust World Level: After reaching World Level 5, the option to lower your World Level will be unlocked. Using this function, you can lower your World Level by 1. Each time you change your World Level, whether lowering it by 1 or restoring your World Level, you will be unable to change your World Level again for the following 24 hours.
+
+After reaching Adventure Rank 60, any further Adventure EXP you receive will be converted to Mora at a rate of 10 Mora per Adventure EXP point.
+
+Adds a new events/new content summary page to the mobile version of the game.
+
+
+
+● Co-Op Mode
+
+In Co-Op Mode, Travelers can now see the idle animations of teammates' characters.
+
+
+
+VII. Adjustments & Optimizations
+
+● System
+
+Spiral Abyss
+
+Starting from the first time that the Blessing of the Abyssal Moon changes after updating to Version 1.4, the two Blessings of the Abyssal Moon will be as follows:
+
+○ Period I: Windward Moon
+
+Characters possess an ATK-increasing Windward Aura that can increase their ATK by a maximum of 60%. For every opponent who steps within the Aura, the Aura's effect is decreased by 25%. When 4 or more opponents are within the Aura, this effect will not provide an ATK increase.
+
+○ Period II: Skyward Moon
+
+Hitting an opponent with a Plunging Attack decreases their DEF by 40% for 10s.
+
+※ There will be no change to the reset times of the Spiral Abyss and Blessing of the Abyssal Moon. These remain the first and sixteenth days of each month, respectively.
+
+Increases the maximum quantity of Condensed Resin that may be held. Travelers may now hold up to 5 Condensed Resin at any one time.
+
+Optimizes the order of item drops: More valuable items will appear earlier in the list.
+
+Optimizes the cooking function: After unlocking Auto Cook, the option Cook Manually remains.
+
+Optimizes the Spiral Abyss challenge: Challenges can be restarted mid-stage; Elemental Resonance effects can be viewed from the character selection screen; adds the option to exit before entering the next floor.
+
+Cooking, crafting, and forging functions remember your previous character selection.
+
+Optimizes Xiao's expression when casting his Elemental Skill.
+
+Optimizes the visual effect in Co-Op Mode when the camera makes contact with a teammate or NPC.
+
+Optimizes camera close-up transitions in some domains and quests.
+
+Optimizes the Original Resin replenishment screen: Travelers can view the quantity of Fragile Resin they own and decide which item to replenish Original Resin with more easily.
+
+When you first download the game client on a mobile device, only the voice-over resources corresponding to your device's system language will be downloaded initially by default. (Example: Devices where the system language is set to English will download only English voice-over resources by default.) When you update the game client on a mobile device, voice-over resources will be downloaded for both the voice-over language corresponding to your device's system language and the currently selected voice-over language in the game. (Example: If your device's system language is set to English and you have selected Japanese voice-over in the game, both English and Japanese voice-over resources will be downloaded when you update the game.)
+
+Travelers can download any additional voice-over languages they wish to use from within the game.
+
+
+
+● Audio
+
+The Chinese voice artist for Amber is changed.
+
+Adjusts the Chinese and Japanese voice-over for certain characters.
+
+Adjusts the English voice-over for certain NPCs.
+
+Adds Chinese voice-over for certain characters.
+
+Adds dialogue voice-over to the Oceanid boss fight as well as certain sound effects for Oceanid Creatures.
+
+Optimizes the sound effects for certain character skills and environments.
+
+Optimizes the playback setting for the sound effect when characters take damage.
+
+
+
+● Other
+
+Adjusts the appearance of Rosaria.
+
+Fixes an issue whereby some characters who have not hit a target with an attack can jump while returning to a standby pose and thus perform a Plunging Attack.
+
+*Additional Note: We are paying close attention to the possible impact of other operations that can produce the same effect. If we have plans to change them in the future, we will announce that as soon as possible.
+
+
+
+VIII. Bug Fixes
+
+● Domains
+
+Fixes an issue in the Spiral Abyss whereby after reconnecting to the server, buffs provided by Benediction of the Abyss may stack incorrectly.
+
+Fixes an issue with the Domain "Enter the 'border'" whereby characters may skip certain parts of the process under specific circumstances.
+
+
+
+● Monsters
+
+Fixes an issue whereby the boss Stormterror does not take certain types of damage.
+
+Fixes an issue with the Childe boss fight whereby Childe may be Frozen or Petrified in the third phase of the battle.
+
+Fixes an issue with the boss fight "Andrius, Dominator of Wolves" whereby if Andrius takes damage while sprinting around the perimeter of the proving ground, or while sprinting from the perimeter towards the center, his movements will be interrupted.
+
+Fixes an issue whereby some special effects do not scale properly for large monsters.
+
+Fixes an issue whereby Ice Cage, Vacuum Vortex, Rumbling Stone, Lightning Stake, Pursuing Fireball, Mist Bubble, and other monster skill effects may incorrectly remain after the monster is defeated.
+
+Fixes an issue whereby monsters have a small chance to attack incorrect targets. (For example, monsters may incorrectly attack the Jade Screen created by Ningguang's Elemental Skill.)
+
+Fixes an issue whereby characters' shields may disappear when within the range of the shield created by the Geo Hypostasis boss's energy cube.
+
+Fixes an issue whereby Abyss Mages or Fatui Cicin Mages may incorrectly activate pressure pads while their shields are active.
+
+Fixes an issue whereby the blocking effect of Fatui Skirmisher - Anemoboxer Vanguards may incorrectly remain.
+
+
+
+● Co-Op
+
+Fixes an issue in Co-Op Mode whereby after a large slime jumps, it still takes DMG if the location from which it jumps is attacked.
+
+Fixes an issue in Co-Op Mode whereby after other players enter the world, monsters affected by an element may display the wrong elemental symbol.
+
+Fixes an issue in Co-Op Mode whereby wild animals may incorrectly remain in place.
+
+Fixes an issue in Co-Op Mode whereby multiple players' characters can sit in the same location.
+
+
+
+● Characters
+
+Fixes an issue affecting some characters whereby simultaneously casting an Elemental Burst and switching character while the character is sprinting may cause errors with the Elemental Burst.
+
+Fixes an issue whereby a character who is sitting down may be lifted up by the crystallized platform generated by a Solar Isotoma.
+
+Fixes an issue with Tartaglia whereby after applying the Riptide status to a monster, removing the character from the party and adding him back in may incorrectly trigger the Riptide effect that was previously applied.
+
+Fixes an issue whereby Albedo's Level 6 Constellation "Dust of Purification" may not take effect properly.
+
+Fixes an issue with Qiqi's animation on the Dressing Room screen.
+
+Fixes an issue with Qiqi whereby casting the Elemental Skill "Adeptus Art: Herald of Frost" in the same location multiple times consecutively may cause the skill's effects to disappear.
+
+Fixes an issue with Fischl's Passive Talent "Undone Be Thy Sinful Hex" whereby it has a small chance to target Oz.
+
+Fixes an issue whereby Xiao's Elemental Skill "Lemniscatic Wind Cycling" fails to complete quest objectives that involve cleaning/sweeping/etc.
+
+Fixes an issue with Xiao whereby even if his Lv. 1 Constellation "Dissolution Eon: Destroyer of Worlds" has not been unlocked, there is still a chance that the Elemental Skill "Lemniscatic Wind Cycling" may be cast three times in succession.
+
+Fixes an issue with the Traveler whereby jumping or sprinting while casting the Elemental Skill "Palm Vortex" stops the Talent "Second Wind" from being triggered properly.
+
+Fixes an issue with some of Benett's movements and facial expressions on the Character Screen.
+
+Fixes an issue whereby when Klee leaves the field just as the duration of her Elemental Burst "Sparks 'n' Splash" is about to end, her Lv. 4 Constellation "Sparkly Explosion" does not correctly take effect.
+
+Fixes an issue whereby when Hu Tao's Elemental Burst "Spirit Soother" hits multiple enemies, the HP regeneration value displayed may be lower than the correct value (the actual regeneration effect still functions correctly).
+
+Fixes an issue whereby Ningguang's Charged Attack animation may lag.
+
+Fixes an issue whereby the homing function of Ningguang's Elemental Burst "Starshatter" may fail to take effect.
+
+Fixes a visual issue with characters' shields whereby after reconnecting to the server, the shield may incorrectly remain. (Note: This is not an issue with the functional effects of the shields, which work in-game as intended.)
+
+Fixes an issue whereby when a character uses a Plunging Attack, they may become obstructed by a Geo construct and unable to perform any other actions.
+
+Fixes an issue whereby if a character is hit by a monster while jumping, the character may be launched far away.
+
+Fixes an issue whereby performing a Plunging Attack may not reduce the fall damage sustained by the character as intended.
+
+Fixes an issue whereby character animations may be incorrect when walking up and down steps.
+
+Fixes an issue with Noelle's Passive Talent "Devotion" whereby its cooldown does not function correctly.
+
+Fixes an issue affecting characters with shield skills whereby generating a shield, then switching character, then removing the character who generated the shield from the party may cause errors with the shield's duration.
+
+Fixes an issue whereby closing the PC game client while a character's shield is active then logging back in to the game may cause errors with the shield's duration.
+
+
+
+● System
+
+Fixes an issue whereby when certain characters use a skill to defeat the second phase of the Childe boss, the skill effect does not correctly display in the third phase of the boss fight.
+
+Fixes an issue whereby multiple instances of a single character may appear in the Character Showcase.
+
+Fixes the color of the dialogue option "I'd like something" with Master Zhang in Liyue Harbor when a forging task is complete.
+
+Fixes an issue whereby the Compare function on the Weapon Selection screen may not close correctly.
+
+Fixes an issue with the Parametric Transformer gadget whereby after adding the required quantity of materials, it is still possible to adjust the quantity of other materials that have not yet been added.
+
+Fixes an issue with the Destroy function whereby the information on which character has which weapon/artifacts equipped may not be up-to-date.
+
+Fixes an issue in Photo Mode whereby certain UI elements are not hidden after selecting Hide UI.
+
+
+
+● Audio
+
+Fixes an issue of incorrect Japanese and English voice-over in certain quests.
+
+
+
+● Other
+
+Fixes an issue in single player mode whereby pausing the game by opening the menu may cause the Elemental Reaction trigger mechanic to not function correctly.
+
+Fixes textual errors and display issues in Spanish, Korean, French, and Indonesian and optimizes the localization of text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
